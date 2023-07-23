@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Miyuru Mewan</h1>
+<h1 align="center">Hi 👋, I'm AKA MadMonkey</h1>
 <!-- <h3 align="center">Hello</h3> -->
 <div align="center"> <img src="https://github.com/m99m8/m99m8/blob/main/github%20black.png"> </div>
+<h3 align="center">A passionate Full Stack developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m99m8&label=Profile%20views&color=0e75b6&style=flat" alt="m99m8" /> </p>
 
 <p align="left"> <a href="https://twitter.com/miyuru_mewan" target="blank"><img src="https://img.shields.io/twitter/follow/miyuru_mewan?logo=twitter&style=for-the-badge" alt="miyuru_mewan" /></a> </p>
 
 
-<h3 align="center">A passionate Full Stack developer </h3>
+
 <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 📫 How to reach me **miyuru99mewan@gmail**
