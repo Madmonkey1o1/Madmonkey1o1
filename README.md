@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/miyuru_mewan" target="blank"><img src="https://img.shields.io/twitter/follow/miyuru_mewan?logo=twitter&style=for-the-badge" alt="miyuru_mewan" /></a> </p>
 
+<div align="center"> <img src=""> </div>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 📫 How to reach me **miyuru99mewan@gmail**
 
 - ⚡ Fun fact **i'm doing photography as a hobby**
