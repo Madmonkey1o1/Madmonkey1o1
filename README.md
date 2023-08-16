@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 📫 How to reach me **miyuru99mewan@gmail**
+- 📫 How to reach me **miyuru99mewan@gmail.com**
 
 - ⚡ Fun fact **i'm doing photography as a hobby**
 
