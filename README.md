@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/miyuru_mewan" target="blank"><img src="https://img.shields.io/twitter/follow/miyuru_mewan?logo=twitter&style=for-the-badge" alt="miyuru_mewan" /></a> </p>
 
-
+<!-- gif area-->
 
 <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="center" alt="Coding" width="100" height="60" src ="https://github.com/m99m8/m99m8/blob/main/Untitled-5.gif">
