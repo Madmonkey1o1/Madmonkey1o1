@@ -9,10 +9,12 @@
 
 
 <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="290" height="230" src ="">
+
 
 - 📫 How to reach me **miyuru99mewan@gmail.com**
 
-- ⚡ Fun fact **i'm doing photography as a hobby**
+- ⚡ Fun fact **Do you know Html isn't a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
