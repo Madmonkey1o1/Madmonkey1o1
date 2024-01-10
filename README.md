@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **miyuru99mewan@gmail.com**
 
-- ⚡ Fun fact **Do you know Html isn't a programming language**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
