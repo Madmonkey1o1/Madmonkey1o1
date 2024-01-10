@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="right" alt="Coding" width="290" height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">👋, I'm Miyuru Mewan AKA MadMonkey🐵</h1>
+<h1 align="center">Hi 👋, I'm Miyuru Mewan AKA MadMonkey🐵</h1>
 <!-- <h3 align="center">Hello</h3> -->
 <div align="center"> <img src="https://github.com/m99m8/m99m8/blob/main/github%20black.png"> </div>
 <h3 align="center">A passionate Full Stack developer </h3>
